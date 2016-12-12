@@ -1,0 +1,15 @@
+C:\sc\Visual Studio\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+C:\sc\Visual Studio\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
+C:\sc\Visual Studio\Magic8Ball\bin\Debug\Magic8Ball.exe
+C:\sc\Visual Studio\Magic8Ball\bin\Debug\Magic8Ball.pdb
+C:\sc\Visual Studio\Magic8Ball\obj\Debug\Magic8Ball.exe
+C:\sc\Visual Studio\Magic8Ball\obj\Debug\Magic8Ball.pdb
+C:\Users\Jean-Simon\Documents\Visual Studio 2015\Projects\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+C:\Users\Jean-Simon\Documents\Visual Studio 2015\Projects\Magic8Ball\obj\Debug\Magic8Ball.exe
+C:\Users\Jean-Simon\Documents\Visual Studio 2015\Projects\Magic8Ball\obj\Debug\Magic8Ball.pdb
+C:\Users\Jean-Simon\Documents\Visual Studio 2015\Projects\Magic8Ball\bin\Debug\Magic8Ball.exe
+C:\Users\Jean-Simon\Documents\Visual Studio 2015\Projects\Magic8Ball\bin\Debug\Magic8Ball.pdb
+C:\Users\Jean-Simon\Documents\Visual Studio 2015\Projects\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
+C:\Users\Q\Documents\Visual Studio 2015\Projects\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+C:\Users\Q\Documents\Visual Studio 2015\Projects\Magic8Ball\obj\Debug\Magic8Ball.exe
+C:\Users\Q\Documents\Visual Studio 2015\Projects\Magic8Ball\obj\Debug\Magic8Ball.pdb
