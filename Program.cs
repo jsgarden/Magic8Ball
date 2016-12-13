@@ -37,9 +37,7 @@ namespace Magic8Ball
                 string questionString = getQuestion();   // Create questionString variable and change its value to user inputted question
 
                 // Making the program think
-                int sleepTime = randomObject.Next(5) + 1;
-                Console.WriteLine("Reflexion...");
-                Thread.Sleep(sleepTime * 1000);
+                int sleepTime = randomObject.Next(4) + 1;
 
 
                 // Check if user didn't type a question (tell them to type a question)
@@ -49,7 +47,7 @@ namespace Magic8Ball
                     continue;
                 }
 
-                // User insult - t poche (kick them out the program)
+                // User insult - t poche (kick them out)
                 if (questionString.ToLower() == "t poche")
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
@@ -74,24 +72,36 @@ namespace Magic8Ball
                 {
                     case 0:
                         {
+                            Console.WriteLine("Reflexion...");
+                            Thread.Sleep(sleepTime * 1000);
+
                             Console.WriteLine("OUI!");
                             break;
                         }
 
                     case 1:
                         {
+                            Console.WriteLine("Reflexion...");
+                            Thread.Sleep(sleepTime * 1000);
+
                             Console.WriteLine("NON!");
                             break;
                         }
 
                     case 2:
                         {
+                            Console.WriteLine("Reflexion...");
+                            Thread.Sleep(sleepTime * 1000);
+
                             Console.WriteLine("PAS PAN TOUTE!");
                             break;
                         }
 
                     case 3:
                         {
+                            Console.WriteLine("Reflexion...");
+                            Thread.Sleep(sleepTime * 1000);
+
                             Console.WriteLine("OMG OUI!");
                             break;
                         }
