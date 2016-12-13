@@ -20,8 +20,12 @@ namespace Magic8Ball
         static void Main(string[] args)
         {
 
-            //Save current console text color
+            //Save current console text color and console title
             ConsoleColor oldColor = Console.ForegroundColor;
+            string oldTitle = Console.Title;
+
+            //Change program title
+            Console.Title = "Magic 8 Ball";
 
             programName();   // Tell which program is running          
 
@@ -96,6 +100,7 @@ namespace Magic8Ball
 
             // Cleanup
             Console.ForegroundColor = oldColor;
+            Console.Title = oldTitle;
         }
 
         /// <summary>
@@ -121,7 +126,7 @@ namespace Magic8Ball
         static void programName()
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Magic 8 Ball par Jean-Simon (https://github.com/jsgarden) - Codegasm #2");
+            Console.WriteLine("Magic 8 Ball (https://github.com/jsgarden/magic8ball) - Codegasm #2");
         }
     }
 }
