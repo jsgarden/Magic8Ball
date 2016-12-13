@@ -13,3 +13,9 @@ C:\Users\Jean-Simon\Documents\Visual Studio 2015\Projects\Magic8Ball\obj\Debug\M
 C:\Users\Q\Documents\Visual Studio 2015\Projects\Magic8Ball\bin\Debug\Magic8Ball.exe.config
 C:\Users\Q\Documents\Visual Studio 2015\Projects\Magic8Ball\obj\Debug\Magic8Ball.exe
 C:\Users\Q\Documents\Visual Studio 2015\Projects\Magic8Ball\obj\Debug\Magic8Ball.pdb
+C:\Users\Q\Source\Repos\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+C:\Users\Q\Source\Repos\Magic8Ball\obj\Debug\Magic8Ball.exe
+C:\Users\Q\Source\Repos\Magic8Ball\obj\Debug\Magic8Ball.pdb
+C:\Users\Q\Source\Repos\Magic8Ball\bin\Debug\Magic8Ball.exe
+C:\Users\Q\Source\Repos\Magic8Ball\bin\Debug\Magic8Ball.pdb
+C:\Users\Q\Source\Repos\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
