@@ -52,6 +52,8 @@ namespace Magic8Ball
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("T'es encore plus poche ! BYE !");
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.ReadLine();
                     break;
                 }
 
